@@ -12,7 +12,7 @@ Version: 1.0
 Release: 0%{?dist}
 License: No license 
 Summary: helloworld try to be used on redpesk
-URL: http://git.ovh.iot/lhachair/my-first-awesome-project.git
+URL: https://github.com/lhachair/helloworld.git
 Source: %{name}-%{version}.tar.gz
 
 Requires: afb-binder
