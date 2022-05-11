@@ -8,7 +8,7 @@
 
 
 Name: helloworld
-Version: 1.0
+Version: 0.0.0
 Release: 0%{?dist}
 License: No license 
 Summary: helloworld try to be used on redpesk
